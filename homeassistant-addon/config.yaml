@@ -8,8 +8,8 @@ description: >-
   including via Voice. Point HA's official `mcp` (client) integration
   at http://homeassistant.local:7878/sse after install.
 url: "https://github.com/Casperjuel/aula-mcp"
+image: ghcr.io/yorban/aula-mcp-ha
 arch:
-  - amd64
   - aarch64
 init: false
 boot: auto
